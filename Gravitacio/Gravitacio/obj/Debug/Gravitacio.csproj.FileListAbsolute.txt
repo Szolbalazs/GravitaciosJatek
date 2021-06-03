@@ -1,0 +1,15 @@
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\bin\Debug\Gravitacio.exe.config
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\bin\Debug\Gravitacio.exe
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\bin\Debug\Gravitacio.pdb
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.csprojAssemblyReference.cache
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\MainWindow.g.cs
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\App.g.cs
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio_MarkupCompile.cache
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio_MarkupCompile.lref
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\MainWindow.baml
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.g.resources
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.Properties.Resources.resources
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.csproj.GenerateResource.cache
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.csproj.CoreCompileInputs.cache
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.exe
+D:\Munka\Komplex prog\Gravitacio\Gravitacio\Gravitacio\obj\Debug\Gravitacio.pdb
